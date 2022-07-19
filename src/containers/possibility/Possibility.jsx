@@ -11,8 +11,7 @@ const Possibility = () => {
       <div className="gpt3__possibility-content">
         <h4>Request early access</h4>
         <h1 className="gradient__text">
-          Lorem Ipsum is simply dummy text of the printing and
-          typesettingindustry.
+          Lorem Ipsum is simply dummy text of the printing.
         </h1>
         <p>
           Lorem Ipsum is simply dummy text of the printing and typesetting
